@@ -5,6 +5,16 @@ Formatted as described on http://keepachangelog.com/.
 
 ## [Unreleased]
 
+## [1.4.4] - 2018-09-27
+
+### Changed
+ *  Upgraded Virtualbox Guest Additions to v5.2.10
+ 
+### Fixed
+  *  Remove old kernels (#25)
+  *  Updated cran url
+  *  Unexpected disconnect
+
 ## [1.4.3] - 2018-02-09
 
 ### Changed
